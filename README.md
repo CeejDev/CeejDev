@@ -41,9 +41,9 @@ Here’s a snapshot of my coding adventures:
 
 Got a cool project or just want to chat about tech? Feel free to reach out:
 
-- **GitHub:** [CeejDev](https://github.com/CeejDev)
-- **Email:** [your.email@example.com] *(replace with your actual email!)*
-- **Twitter/X:** [@YourHandle] *(add your handle if you’d like!)*
+- **Email:** licayanclarkjustin@gmail.com
+- **Twitter/X:** https://x.com/ceej_dev
+- **LinkedIn:** https://www.linkedin.com/in/ceejdev/
 
 Thanks for stopping by—happy coding! 🚀
 
