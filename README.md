@@ -29,7 +29,7 @@
 
 [![Ceej.Dev's GitHub Streak](https://streak-stats.demolab.com/?user=CeejDev&theme=github-dark-blue)](https://git.io/streak-stats)
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=CeejDev&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
+![Ceej.Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=CeejDev&theme=github_dark&show_icons=true)
 
 
 
