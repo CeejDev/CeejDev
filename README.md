@@ -1,10 +1,8 @@
+![](https://komarev.com/ghpvc/?username=CeejDev&style=for-the-badge&abbreviated=true)
+
 ## Hi there👋, I'm Clark!
 
 I'm a passionate developer who loves everything about websites.
-
-![](https://komarev.com/ghpvc/?username=CeejDev&style=for-the-badge&abbreviated=true)
-
----
 
 ## 🛠️ What I Work With
 
