@@ -37,7 +37,15 @@ Here’s a snapshot of my coding adventures:
 
 ![Ceej.Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=CeejDev&theme=github_dark&show_icons=true)
 
+## 📫 Let’s Connect!
 
+Got a cool project or just want to chat about tech? Feel free to reach out:
+
+- **GitHub:** [CeejDev](https://github.com/CeejDev)
+- **Email:** [your.email@example.com] *(replace with your actual email!)*
+- **Twitter/X:** [@YourHandle] *(add your handle if you’d like!)*
+
+Thanks for stopping by—happy coding! 🚀
 
 
 
