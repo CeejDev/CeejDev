@@ -1,6 +1,6 @@
 ## Hi there👋, I'm Clark!
 
-I'm a passionate developer who loves crafting clean, efficient, and user-friendly solutions. Whether it's building dynamic front-end experiences or robust back-end systems, I thrive on turning ideas into reality with code. When I'm not coding, you can find me exploring new tools, designing in Figma, or sipping coffee while brainstorming my next project.
+I'm a passionate developer who loves everything about websites.
 
 ![](https://komarev.com/ghpvc/?username=CeejDev&style=for-the-badge&abbreviated=true)
 
