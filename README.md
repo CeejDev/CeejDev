@@ -41,9 +41,9 @@ Here’s a snapshot of my coding adventures:
 
 Got a cool project or just want to chat about tech? Feel free to reach out:
 
-- **Email:** licayanclarkjustin@gmail.com
-- **Twitter/X:** https://x.com/ceej_dev
+- **Email:** c.licayan.140752.tc@umindanao.edu.ph
 - **LinkedIn:** https://www.linkedin.com/in/ceejdev/
+- **Twitter/X:** https://x.com/ceej_dev
 
 Thanks for stopping by—happy coding! 🚀
 
