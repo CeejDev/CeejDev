@@ -4,6 +4,8 @@ I'm a passionate developer who loves everything about websites.
 
 ![](https://komarev.com/ghpvc/?username=CeejDev&style=for-the-badge&abbreviated=true)
 
+---
+
 ## 🛠️ What I Work With
 
 While working on development, I utilize:
