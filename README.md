@@ -4,7 +4,9 @@ I'm a passionate developer who loves everything about websites.
 
 ![](https://komarev.com/ghpvc/?username=CeejDev&style=for-the-badge&abbreviated=true)
 
-<h3>While working on development, I utilize:</h3>
+## 🛠️ What I Work With
+
+While working on development, I utilize:
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="css3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
@@ -27,7 +29,9 @@ I'm a passionate developer who loves everything about websites.
   <img alt="Adobe Photoshop" src="https://img.shields.io/badge/-adobe%20photoshop-30a8ff?style=flat-square&logo=adobe%20photoshop&logoColor=white" />
 </p>
 
-<h3>My GitHub contributions summary:</h3>
+## 📊 My GitHub Journey
+
+Here’s a snapshot of my coding adventures:
 
 [![Ceej.Dev's GitHub Streak](https://streak-stats.demolab.com/?user=CeejDev&theme=github-dark-blue)](https://git.io/streak-stats)
 
